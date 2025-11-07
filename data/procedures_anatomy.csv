@@ -1,0 +1,90 @@
+label,pattern
+ANATOMY,aorta
+ANATOMY,bladder
+ANATOMY,brain
+ANATOMY,cerebellum
+ANATOMY,cervical spine
+ANATOMY,cervix
+ANATOMY,colon
+ANATOMY,duodenum
+ANATOMY,esophagus
+ANATOMY,fallopian tube
+ANATOMY,gallbladder
+ANATOMY,heart
+ANATOMY,hippocampus
+ANATOMY,ileum
+ANATOMY,jejunum
+ANATOMY,kidney
+ANATOMY,kidneys
+ANATOMY,large intestine
+ANATOMY,left arm
+ANATOMY,left atrium
+ANATOMY,left hip
+ANATOMY,left knee
+ANATOMY,left leg
+ANATOMY,left lung
+ANATOMY,left shoulder
+ANATOMY,left ventricle
+ANATOMY,liver
+ANATOMY,lumbar spine
+ANATOMY,lungs
+ANATOMY,ovaries
+ANATOMY,ovary
+ANATOMY,pancreas
+ANATOMY,prostate
+ANATOMY,pulmonary artery
+ANATOMY,rectum
+ANATOMY,right arm
+ANATOMY,right atrium
+ANATOMY,right hip
+ANATOMY,right knee
+ANATOMY,right leg
+ANATOMY,right lung
+ANATOMY,right shoulder
+ANATOMY,right ventricle
+ANATOMY,small intestine
+ANATOMY,spinal cord
+ANATOMY,spleen
+ANATOMY,stomach
+ANATOMY,testes
+ANATOMY,testis
+ANATOMY,thoracic spine
+ANATOMY,uterus
+ANATOMY,vagina
+PROCEDURE,angiography
+PROCEDURE,angioplasty
+PROCEDURE,appendectomy
+PROCEDURE,arthroplasty
+PROCEDURE,biopsy
+PROCEDURE,bone marrow biopsy
+PROCEDURE,bronchoscopy
+PROCEDURE,c-section
+PROCEDURE,cabg
+PROCEDURE,cardiac catheterization
+PROCEDURE,cesarean section
+PROCEDURE,cholecystectomy
+PROCEDURE,colonoscopy
+PROCEDURE,ct scan
+PROCEDURE,dialysis
+PROCEDURE,ecg
+PROCEDURE,echocardiogram
+PROCEDURE,egd
+PROCEDURE,ekg
+PROCEDURE,endoscopy
+PROCEDURE,esophagogastroduodenoscopy
+PROCEDURE,hemodialysis
+PROCEDURE,hysterectomy
+PROCEDURE,intubation
+PROCEDURE,joint replacement
+PROCEDURE,kidney biopsy
+PROCEDURE,liver biopsy
+PROCEDURE,lumbar puncture
+PROCEDURE,mechanical ventilation
+PROCEDURE,mri
+PROCEDURE,paracentesis
+PROCEDURE,peritoneal dialysis
+PROCEDURE,thoracentesis
+PROCEDURE,total hip replacement
+PROCEDURE,total knee replacement
+PROCEDURE,ultrasound
+PROCEDURE,x-ray
