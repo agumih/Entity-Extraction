@@ -13,7 +13,7 @@ This module extracts **medical entities** from clinical text.
 
 - First, clone the repo by using this command: **git clone git@github.com:agumih/Entity-Extraction.git**
 
-- Navigate to the root directory by using this command: **cd AI-Medical-transcription**
+- Navigate to the root directory by using this command: **cd Entity-Extraction**
 
 - Next, just copy-paste the commands below for the installation:
 
